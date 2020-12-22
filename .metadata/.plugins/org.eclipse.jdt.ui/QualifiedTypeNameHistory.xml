@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.core.io.DefaultResourceLoader"/>
+<fullyQualifiedTypeName name="org.springframework.core.io.PathResource"/>
+<fullyQualifiedTypeName name="javassist.ClassPath"/>
+<fullyQualifiedTypeName name="java.nio.file.Path"/>
+<fullyQualifiedTypeName name="org.eclipse.core.runtime.Path"/>
+</qualifiedTypeNameHistroy>

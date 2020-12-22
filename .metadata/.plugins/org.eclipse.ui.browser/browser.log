@@ -1,0 +1,8 @@
+
+9월 20, 2020 06:23:45.64 NEW SESSION
+9월 20, 2020 06:23:45.64 [106604:100224:0920/062345.641:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-113659777770554344415
+9월 20, 2020 06:23:45.66 [106604:104556:0920/062345.660:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+
+9월 20, 2020 10:04:23.04 NEW SESSION
+9월 20, 2020 10:04:23.04 [93356:108600:0920/100423.037:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-113659777770554344415
+9월 20, 2020 10:04:23.06 [93356:62844:0920/100423.067:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
